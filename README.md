@@ -30,8 +30,8 @@ Aquí encontrarás una serie de recursos y ejemplos prácticos para cada uno de 
 | 17 | Arreglos Unidimensionales (Vectores) en Programación                  | [Cuaderno](https://github.com/franperezec/algorithms/blob/main/13ArreglosUnidimensionalesVectores.ipynb) | -                           | [Abrir en Colab](https://colab.research.google.com/drive/1EhA8eKD8YZmkpyj2LRsjHkctTvlNyWoz?usp=sharing) |
 | 18 | Arreglos Bidimensionales (Matrices) en Programación                   | [Cuaderno](https://github.com/franperezec/algorithms/blob/main/14ArreglosBidimensionalesMatrices.ipynb) | -                           | [Abrir en Colab](https://colab.research.google.com/drive/1P-chu0ODLXZU4_AzdpWGV6W3dgRbJII3?usp=sharing) |
 | 19 | Verifica si una matriz cuadrada A es superior, inferior o diagonal    | [Cuaderno](https://github.com/franperezec/algorithms/blob/main/MatrizCuadradaDiagonal.ipynb) | -                           | [Abrir en Colab](https://colab.research.google.com/drive/1o8fiPRAp1Md8ma6vY7Jj1DUdrknyiAVx?usp=sharing) |
-| 20 | Cuestionario Interactivo 1           | [Cuestionario en Quizizz](#) | -                           | -                                                     |
-| 21 | Cuestionario Interactivo 2          | [Cuestionario en Quizizz](#) | -                           | -                                                     |
+| 20 | [Cuestionario Fundamentos de Algoritmos y Python](https://quizizz.com/join?gc=98724881)         | - | -                           | -                                                     |
+| 21 | [Cuestionario Estructuras condicionales y Arreglos](https://quizizz.com/join?gc=69079003)          | - | -                           | -                                                     |
 
 ## Contribuciones
 
